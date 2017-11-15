@@ -139,7 +139,7 @@ Hello World! 11/14
 
 以這個例子而言我們輸入
 
-`$ knife bootstrap 52.175.154.101 -x tim -P 'Chichi12345*' --sudo -N node1 --run-list "recipe[web_associated::web_demo]"`
+`$ knife bootstrap 52.175.154.101 -x tim -P 'PASSWORD*' --sudo -N node1 --run-list "recipe[web_associated::web_demo]"`
 
 ![](./image/5.png)
 
