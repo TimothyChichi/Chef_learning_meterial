@@ -436,6 +436,7 @@ Environment 對應了工作流程，我們可以透過 Chef-server 設定和管�
 }
 ```
 ---
+
 # Reference #
 [使用 Chef 自動化部屬一個 Web 服務器 (from IBM)](https://www.ibm.com/developerworks/cn/cloud/library/1506_wangqf_chefforweb/index.html)
 
